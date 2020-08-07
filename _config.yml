@@ -23,7 +23,7 @@ author: Amrita Gupta
 email: gupta.amrita20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Posts about code, tools and data I tinker with.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "tinkerings" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: itsamritagupta
 github_username:  amritagupta
