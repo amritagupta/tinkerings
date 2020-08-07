@@ -11,7 +11,7 @@ tags: matplotlib data-visualization
 Calendar heatmaps are familiar to anyone with a GitHub repository--the green gridded chart that tracks contributions over time is an example of one. They're a great way to visualize time series data, and different layouts can reveal different temporal patterns. Most commonly, the layout is structured to reveal periodic behavior, e.g. coding activity per day of the week, over the weeks of a year. Another beautiful example is [this visualization of music listening habits per hour and day of the week by Martin Dittus](http://dekstop.de/weblog/2011/09/lastfm_heatmap_calendars/).
 {%
     include figure.html 
-    src="/assets/images/my-abysmal-github-contribution-calendar-2019.png" 
+    src="/tinkerings/assets/images/my-abysmal-github-contribution-calendar-2019.png" 
     caption="My abysmal GitHub contributions calendar in 2019."
 %}
 
@@ -149,7 +149,7 @@ Looking at my Untappd checkins from 2019, it's easy to spot Friday happy hours, 
 
 {%
     include figure.html 
-    src="/assets/images/untappd_checkins_calendar_heatmap_2020.png" 
+    src="/tinkerings/assets/images/untappd_checkins_calendar_heatmap_2020.png" 
     caption="Untappd checkins per day of 2020 so far."
 %}
 By contrast, this year I've been in lockdown since early March, and the weeks since then have looked mostly the same. Thankfully, my friends and I still get together for virtual happy hours.
@@ -165,7 +165,7 @@ cm = ListedColormap(cm)
   ```
 {%
     include figure.html 
-    src="/assets/images/mapmyrun_distance_calendar_heatmap_2019.png" 
+    src="/tinkerings/assets/images/mapmyrun_distance_calendar_heatmap_2019.png" 
     caption="MapMyRun distance run per day of 2019."
 %}
 I can see exactly when I started trying to run reglarly again in spring 2019, and when I cut back again after a knee injury in May. I can also see that I need to do much better this year!
