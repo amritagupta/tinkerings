@@ -142,7 +142,7 @@ plt.show()
 # Output
 {%
     include figure.html 
-    src="/assets/images/untappd_checkins_calendar_heatmap_2019.png" 
+    src="/tinkerings/assets/images/untappd_checkins_calendar_heatmap_2019.png" 
     caption="Untappd checkins per day of 2019."
 %}
 Looking at my Untappd checkins from 2019, it's easy to spot Friday happy hours, the week in June I went to Nashville, TN (visiting lots of bars to see local bands), the weeks in August leading up to deadlines, and the weeks in November and December I was visiting my parents and working towards my PhD proposal.
